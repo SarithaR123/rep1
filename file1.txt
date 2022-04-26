@@ -1,0 +1,4 @@
+rightclick git bash here
+git init
+move staging area 
+before move config
