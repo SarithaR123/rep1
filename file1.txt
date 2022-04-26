@@ -1,4 +1,13 @@
 rightclick git bash here
 git init
 move staging area 
-before move config
+git add -a (to add all files)
+git add a.txt(add file a)
+git add a.txt b.txt
+before move to local repository config
+git config --global user.email "sarithar1990@gmail.com"
+git config --global user.name "saritha"
+commiting files into git
+git commit -m "comments"
+git log
+to know user and file details
